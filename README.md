@@ -1,5 +1,4 @@
 ## 👋 Hi, I'm Syed Danish!
-
 <img align="right" alt="Coding" width="400" src= "https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f">
 
 🚀 Aspiring Web Developer | DevOps | Final Year CSE Student | AI Enthusiast 
@@ -7,14 +6,13 @@
 🎯 GATE 2025 Aspirant | AI and Low-Light Image Processing Enthusiast.
 🌟 Open to remote internships and job opportunities!
 
+
 ## 🛠️ Let’s Build Something Together! 🤝
 If you’re interested in collaborating on any projects or have a cool idea, feel free to reach out. I love working with like-minded people to create amazing things.
 
-## 🚀Thank You for Visiting! 🌍
-I hope you found something interesting. Feel free to explore my repositories, leave feedback, and connect with me. Let’s make the world a better place with technology!
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vip_danish_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/techdansih) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/techdanish) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vip_danish_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/techdanish) 
 
 ## 🥷🏻 Skills & Tools🧰🚀🔧:
 
@@ -27,4 +25,7 @@ I hope you found something interesting. Feel free to explore my repositories, le
 [![](https://visitcount.itsvg.in/api?id=thelordzeus&icon=2&color=0)](https://visitcount.itsvg.in)
 
 
+
+## 🚀Thank You for Visiting! 🌍
+I hope you found something interesting. Feel free to explore my repositories, leave feedback, and connect with me. Let’s make the world a better place with technology!
 
