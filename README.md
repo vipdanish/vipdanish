@@ -2,10 +2,9 @@
 
 <img align="right" alt="Coding" width="400" src= "https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f">
 
-🚀 Aspiring Web Developer | DevOps | Final Year CSE Student | AI Enthusiast. <br>
-🌱 Currently exploring DevOps tools, cloud technologies, and backend development.<br>
-🎯 GATE 2025 Aspirant | AI and Low-Light Image Processing Enthusiast.<br>
-🌟 Open to remote internships and job opportunities!
+🚀 Aspiring Web Developer |CSE Final Year |DevOps |AI Enthusiast. <br>
+🌱 Currently exploring DevOps tools, cloud technologies, and backend development.<br> 
+🌟 Open to internships and job opportunities!
 
 
 ## 🛠️ Let’s Build Something Together! 🤝
