@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src= "https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f">
 
-🚀 Aspiring Web Developer |CSE Final Year |DevOps |AI Enthusiast. <br>
+🚀 Aspiring Web Developer |CSE Final Year |DevOps Enthusiast. <br>
 🌱 Currently exploring DevOps tools, cloud technologies, and backend development.<br> 
 🌟 Open to internships and job opportunities!
 
@@ -25,8 +25,8 @@ If you’re interested in collaborating on any projects or have a cool idea, fee
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 [![](https://visitcount.itsvg.in/api?id=thelordzeus&icon=2&color=0)](https://visitcount.itsvg.in)
 
-
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in&layout=samuel&font=default&quoteType=random&fontColor=yellow)
+## 💬 Quote of The Day:
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=merko&animation=grow_out_in&layout=samuel&font=PixelifySans&quoteType=random&fontColor=green)
 ## 🚀Thank You for Visiting! 🌍
 I hope you found something interesting. Feel free to explore my repositories, leave feedback, and connect with me. Let’s make the world a better place with technology!
 
