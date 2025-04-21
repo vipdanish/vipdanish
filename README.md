@@ -14,7 +14,7 @@ If you’re interested in collaborating on any projects or have a cool idea, fee
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vip_danish_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/techdanish) 
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fokdanish.netlify.app%2F)
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https://okdanish.netlify.app)
 
 ## 🥷🏻 Skills & Tools🧰🚀🔧:
 
