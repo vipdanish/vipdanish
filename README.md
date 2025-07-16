@@ -3,9 +3,9 @@
 
 <img align="right" alt="Coding" width="400" src= "https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f">
 
-🚀 Aspiring Web Developer | CSE Final Year | DevOps Enthusiast. <br>
-🌱 Currently exploring DevOps tools, cloud technologies, and backend development.<br> 
-🌟 Open to internships and Role!
+🚀 Web Developer | BTech CSE Graduate | DevOps & Cloud Enthusiast
+🌱 Exploring DevOps tools, cloud platforms (AWS), and backend development using Node.js, Docker, and CI/CD.
+🌟 Open to internships, freelance projects, and full-time roles in DevOps Engineering.
 
 
 ## 🛠️ Let’s Build Something Together! 🤝
