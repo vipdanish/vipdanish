@@ -1,3 +1,7 @@
+
+
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=33&pause=1000&width=1200&lines=%F0%9F%91%8B+Hi%2C+I'm+Syed+Danish!+welcome+to+my+GitHub+profile+%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="400" src= "https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f">
@@ -15,7 +19,12 @@ Always up for building scalable systems, breaking silos, and turning complex inf
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/techdanish) 
 [![X (formerly Twitter)](https://img.shields.io/twitter/url?url=https://okdanish.netlify.app)](https://okdanish.netlify.app)
 ![Profile Views](https://komarev.com/ghpvc/?username=vipdanish&color=brightgreen&style=flat-square)
+![Kubernetes](https://img.shields.io/badge/K8s-Healthy-brightgreen?logo=kubernetes)
 [![GitHub followers](https://img.shields.io/github/followers/LondheShubham153?label=Follow&style=social)](https://github.com/vipdanish)
+![Build](https://img.shields.io/github/actions/workflow/status/vipdanish/yourrepo/ci.yml?label=Build&logo=github)
+![Deployment](https://img.shields.io/badge/Last_Deploy-2025--08--28-success?logo=vercel)
+![Docker](https://img.shields.io/badge/Docker-Running-blue?logo=docker)
+
 
 ## ☁️ DevOps & Cloud 🛠️🚀
 
